@@ -33,5 +33,6 @@ print(emp1.first)
 print(emp1.email)
 print(emp1.fullname)
 
+##delete
 del emp1.fullname
 
